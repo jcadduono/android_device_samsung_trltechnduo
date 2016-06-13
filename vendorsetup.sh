@@ -1,0 +1,2 @@
+add_lunch_combo omni_trltezc-eng
+add_lunch_combo omni_trltezc-userdebug
